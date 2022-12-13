@@ -1,0 +1,15 @@
+Pregnancies: indicates the number of pregnancies
+
+Glucose: indicates the plasma glucose concentration
+
+Blood Pressure: indicates diastolic blood pressure in mm/Hg
+
+Skin Thickness: indicates triceps skinfold thickness in mm
+
+Insulin: indicates insulin in U/mL
+
+BMI: indicates the body mass index in kg/m2
+
+Diabetes Pedigree Function: indicates the function which scores likelihood of diabetes based on family history
+
+Age: indicates the age of the person
